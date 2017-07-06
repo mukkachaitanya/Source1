@@ -1,1 +1,1 @@
-#define SIZE=5*5
+#define SIZE=25*25
